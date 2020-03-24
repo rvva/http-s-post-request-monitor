@@ -1,0 +1,15 @@
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\bin\Debug\POSTMonitor.exe.config
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\bin\Debug\POSTMonitor.exe
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\bin\Debug\POSTMonitor.pdb
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\obj\Debug\POSTMonitor.csprojAssemblyReference.cache
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\obj\Debug\POSTMonitor.Form1.resources
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\obj\Debug\POSTMonitor.Properties.Resources.resources
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\obj\Debug\POSTMonitor.csproj.GenerateResource.cache
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\obj\Debug\POSTMonitor.exe
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\obj\Debug\POSTMonitor.pdb
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\bin\Debug\BasicFormatsForCore.dll
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\bin\Debug\BCMakeCert.dll
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\bin\Debug\CertMaker.dll
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\bin\Debug\FiddlerCore4.dll
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\bin\Debug\FiddlerCore4.xml
+C:\Users\qqs\source\repos\POSTMonitor\POSTMonitor\obj\Debug\POSTMonitor.csproj.CopyComplete
